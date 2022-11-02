@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://gd-cowtransfer.static.cowtransfer.com/cowtransfer/cowtransfer/06177/feb2514173644e608c419c7a208c411b.ipa?response-content-disposition=attachment%3B%20filename%3Dvoice.ipa%3Bfilename*%3Dutf-8%27%27voice.ipa&amp;auth_key=1667389880-5531237aa2df4ee18ea00ca6a8c7ee64-0-f92e51f49e69d4cd5ca1423e5536fd79&amp;channel_code=COW_CN_WEB&amp;business_code=COW_TRANSFER&amp;biz_type=1&amp;user_id=1021933637910406177</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<integer>0</integer>
+					<key>url</key>
+					<string>https://172.16.0.195:8080/downloadApp/icon-80.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://172.16.0.195:8080/downloadApp/icon-1024.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sea.voice</string>
+				<key>bundle-version</key>
+				<string>2.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>万能变声器</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
