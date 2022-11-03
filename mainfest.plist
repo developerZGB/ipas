@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<integer>0</integer>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/developerZGB/ipas/blob/main/icon-80.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<integer>1</integer>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/developerZGB/ipas/blob/main/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
